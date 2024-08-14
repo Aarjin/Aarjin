@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello !!<br><br>I am currently pursuing my Bachelor's degree in Computing with Artificial Intelligence.
+Hello !!<br><br>I am currently pursuing a Bachelor's degree in Computing with Artificial Intelligence. I have foundational knowledge in artificial intelligence and machine learning and am enthusiastic about deepening my understanding of these fields. I am eager to explore and apply cutting-edge AI technologies, driven by a passion for innovation and problem-solving.
 
 
 ## 🌐 Socials:
